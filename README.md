@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+DEMO AND PREVIEW 
+
+DEMO LINK : https://ksvmovies.netlify.app/
+
+PREVIEW :
+
+
+
+
+<img width="1344" alt="Simple Movie App" src="https://user-images.githubusercontent.com/92424434/213849019-939d8201-947e-4389-aca0-0d09f25d5019.png">
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
