@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 DEMO AND PREVIEW : 
 
 
-DEMO LINK : https://ksvmovies.netlify.app/
+DEMO LINK : 👉 https://ksvmovies.netlify.app/
 
 
 
@@ -20,10 +20,6 @@ PREVIEW :
 
 
 
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
